@@ -15,12 +15,12 @@
 ## 🎨 Visual Work & Maya Exploration
 *A collection of my work and technical explorations in Autodesk Maya:*
 
-![Image 1](<img width="960" height="540" alt="pic1" src="https://github.com/user-attachments/assets/04578d1e-21d4-40c6-8665-7d871d90f125" />
-)
+<img width="960" height="540" alt="pic1" src="https://github.com/user-attachments/assets/a8a7cc62-ac7e-4691-8ea5-920da69650d2" />
+
 
 ---
 
-![Image 2](ا<img width="585" height="382" alt="pic2" src="https://github.com/user-attachments/assets/a5a86ebf-ebd7-49ab-be48-753fca0ba01d" />
+![Image 2](<img width="585" height="382" alt="pic2" src="https://github.com/user-attachments/assets/a5a86ebf-ebd7-49ab-be48-753fca0ba01d" />
 )
 
 ---
